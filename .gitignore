@@ -1,0 +1,20 @@
+# Ignore credentials and data
+air-quality-monitoring-india-firebase-adminsdk-fbsvc-484f6b34b6.json
+.env
+
+# Ignore data files and upload scripts
+data/
+upload_data.py
+upload_remaining_to_firestore.py
+upload_to_firestore.py
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled files and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
