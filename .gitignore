@@ -6,7 +6,6 @@ air-quality-monitoring-india-firebase-adminsdk-fbsvc-484f6b34b6.json
 data/
 upload_data.py
 upload_remaining_to_firestore.py
-upload_to_firestore.py
 
 # Ignore Python virtual environment
 venv/
